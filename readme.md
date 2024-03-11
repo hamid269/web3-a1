@@ -23,7 +23,7 @@
 - [Results Driver Max Verstappen API](https://web3-a1.onrender.com/api/results/driver/max_verstappen) 
 - [Results Driver Connolly API](https://web3-a1.onrender.com/api/results/driver/connolly)  
 - [Results Drivers Sainz Season 2021 to 2022 API](https://web3-a1.onrender.com/api/results/drivers/sainz/seasons/2021/2022)
-- [Qualifying 1106 API](http://localhost:3000/api/qualifying/1106) //doesn't work
+- [Qualifying 1106 API](http://localhost:3000/api/qualifying/1106)
 - [Standings Drivers 1120 API](https://web3-a1.onrender.com/api/standings/drivers/1120)
 - [Standings Constructors 1120 API](https://web3-a1.onrender.com/api/standings/constructors/1120)
-- [Standings Constructors asds API (invalid Id)](https://web3-a1.onrender.com/api/standings/constructors/asds)
+- [Standings Constructors asds API (invalid raceId)](https://web3-a1.onrender.com/api/standings/constructors/asds)

@@ -765,7 +765,6 @@ app.get("/api/qualifying/:raceId", async(req, res) => {
     }
 });
 
-
 // Returns the current season driver standings table for the specified race
 app.get("/api/standings/drivers/:raceId", async(req, res) => {
     try {
